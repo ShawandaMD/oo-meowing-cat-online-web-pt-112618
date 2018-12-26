@@ -3,5 +3,5 @@
 # using attribute attr_accessor
 # the cat should meow
 class Cat 
-  
+  attr_accessor :name
 end  
