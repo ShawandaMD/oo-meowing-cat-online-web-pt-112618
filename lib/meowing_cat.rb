@@ -1,5 +1,7 @@
-Class cat #creating a cat class
+ #creating a cat class
 #instantiating a new cat name Maru
 # using attribute attr_accessor
 # the cat should meow
-end
+class Cat 
+  
+end  
